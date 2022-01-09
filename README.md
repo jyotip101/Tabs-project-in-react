@@ -1,4 +1,6 @@
 <h1 align="center">Tabs | My Team</h1>
+
+In this project, I learn how to display a specific value through tabs
     
 <!-- DEMO -->
  
