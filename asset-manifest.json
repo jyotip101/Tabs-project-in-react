@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tabs-my-team-project-in-react/static/css/main.d7d3ca64.css",
+    "main.js": "/tabs-my-team-project-in-react/static/js/main.4e45003a.js",
+    "index.html": "/tabs-my-team-project-in-react/index.html",
+    "main.d7d3ca64.css.map": "/tabs-my-team-project-in-react/static/css/main.d7d3ca64.css.map",
+    "main.4e45003a.js.map": "/tabs-my-team-project-in-react/static/js/main.4e45003a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7d3ca64.css",
+    "static/js/main.4e45003a.js"
+  ]
+}
