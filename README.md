@@ -4,7 +4,7 @@ In this project, I learn how to display a specific value through tabs
     
 <!-- DEMO -->
  
-### [Demo](https://jyotip101.github.io/tabs-my-team-project-in-react/)
+### [Demo](https://thejyotipatel.github.io/tabs-my-team-project-in-react/)
 
 <!-- TABLE OF CONTENTS -->
 
